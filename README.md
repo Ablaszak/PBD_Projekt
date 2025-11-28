@@ -1,2 +1,2 @@
 # PBD_Projekt
-Repo projektu na Podstawy Baz danych
+Repo projektu na Podstawy Baz Danych
