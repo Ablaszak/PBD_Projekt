@@ -1,0 +1,13 @@
+Zachcianki Marcjana:
+- W raportach kod nie może się zawijać, można ustawić nawet turbo małą czcionkę, 
+byle by linijki kodu się nie zawijały
+- Nie za dużo tekstu w komentarzach, max 2 zdania, 
+w razie czego Marcjan się dopyta i poprosi o uzupełnienie (bez konsekwencji punktowych)
+
+Odpowiedzi na pytania:
+- Jeśli nie ma w magazynie wystarczająco materiałów i nie zdązymy wyprodukować,
+to zamówienie należy odrzucić lub zaproponować inny termin (np taki żebyśmy zdążyli wyprodukować)
+- Produkcja dużej ilości krzeseł nie wypływa na produkcję stołów
+- Można produkować np 3,5 krzesła w ciągu jednego dnia
+- API do rejestracji klientów powinno być elastyczne
+
